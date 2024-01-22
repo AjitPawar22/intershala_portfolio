@@ -1,0 +1,272 @@
+body
+{
+    border: black 2px solid;
+    height: 850px;
+    width: 1500px;
+    margin-left: 15px;
+}
+header img
+{
+height: 150px;
+width: 150px;
+margin-top: 30px;
+margin-left: 20px;
+fill: grey;
+}
+header h2
+{
+    margin-top: -130px;
+    margin-left: 210px;
+}
+header p
+{
+    margin-left: 210px;
+    margin-top: -5px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+header i 
+{
+    font-size: 20px;
+}
+header h4
+{
+    margin-left: 20px;
+}
+.first
+{
+    margin-left: 80px;
+    height: 130px;
+    width: 600px;
+    border: black 2px solid;
+    /* margin-bottom: 5px; */
+    float: left;
+}
+.first h3
+{
+    margin-left: 8px;
+    color: rgba(58,135,203,255);
+}
+.first p
+{
+    margin-top: -10px;
+    margin-left: 7px;
+}
+.first button
+{
+    margin-left: 7px;
+    border-radius: 5px;
+    height: 38px;
+    color: white;
+    background-color: rgba(58,135,203,255);
+    padding: 10px;
+}
+.second
+{
+    margin-left: 800px;
+    height: 130px;
+    width: 600px;
+    border: black 2px solid;
+}
+.second h3
+{
+    margin-left: 8px;
+    color: rgba(58,135,203,255);
+}
+.second p
+{
+    margin-top: -10px;
+    margin-left: 7px;
+}
+.second button
+{
+    margin-left: 7px;
+    border-radius: 5px;
+    height: 38px;
+    color: white;
+    background-color: rgba(58,135,203,255);
+    padding: 10px;
+}
+
+.third
+{
+    margin-left: 80px;
+    height: 130px;
+    width: 600px;
+    border: black 2px solid;
+    margin-top: 15px;
+    float: left;
+}
+.third h3
+{
+    margin-left: 8px;
+    color: rgba(58,135,203,255);
+}
+.third p
+{
+    margin-top: -10px;
+    margin-left: 7px;
+}
+.third button
+{
+    margin-left: 7px;
+    border-radius: 5px;
+    height: 38px;
+    color: white;
+    background-color: rgba(58,135,203,255);
+    padding: 10px;
+}
+
+.fourth
+{
+    margin-left: 800px;
+    height: 130px;
+    width: 600px;
+    border: black 2px solid;
+    margin-top: 15px;
+}
+.fourth h3
+{
+    margin-left: 8px;
+    color: rgba(58,135,203,255);
+}
+.fourth p
+{
+    margin-top: -10px;
+    margin-left: 7px;
+}
+.fourth button
+{
+    margin-left: 7px;
+    border-radius: 5px;
+    height: 38px;
+    color: white;
+    background-color: rgba(58,135,203,255);
+    padding: 10px;
+}
+
+.fifth
+{
+    margin-left: 80px;
+    height: 130px;
+    width: 600px;
+    border: black 2px solid;
+    margin-top: 15px;
+    float: left;
+}
+.fifth h3
+{
+    margin-left: 8px;
+    color: rgba(58,135,203,255);
+}
+.fifth p
+{
+    margin-top: -10px;
+    margin-left: 7px;
+}
+.fifth button
+{
+    margin-left: 7px;
+    border-radius: 5px;
+    height: 38px;
+    color: white;
+    background-color: rgba(58,135,203,255);
+    padding: 10px;
+}
+
+.sixth
+{
+    margin-left: 800px;
+    height: 130px;
+    width: 600px;
+    border: black 2px solid;
+    margin-top: 15px;
+}
+.sixth h3
+{
+    margin-left: 8px;
+    color: rgba(58,135,203,255);
+}
+.sixth p
+{
+    margin-top: -10px;
+    margin-left: 7px;
+}
+.sixth button
+{
+    margin-left: 7px;
+    border-radius: 5px;
+    height: 38px;
+    color: white;
+    background-color: rgba(58,135,203,255);
+    padding: 10px;
+}
+
+.container
+{
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.pagination
+{
+    display: flex;
+    align-items: center;
+    color: white;
+    border-radius: 6px;
+    margin-top: -650px;
+}
+ul li
+{
+    display: block;
+    float: left;
+    background: white;
+    width: 45px;
+    height: 45px;
+    text-align: center;
+    font-size: 22px;
+    font-weight: 200;
+    line-height: 45px;
+    cursor: pointer;
+    border: 1px black solid;
+    color: rgba(58,135,203,255);
+    padding: 0px 0px;
+}
+.link1
+{
+    background-color: rgba(58,135,203,255);
+    color: white;
+}
+
+footer
+{
+    border-radius: 10px;
+    margin-top: -680px;
+    margin-left: 500px;
+}
+
+.btn
+{
+    background-color: white;
+    border-radius: 20px;
+    color: gray;
+    border: 1px solid gray;
+    /* border-color: rgb(128 128 128);
+    border-style: solid;
+  border-width: 2px; */
+    height: 30px;
+    width: 80px;
+}
+.btn1
+{
+    background-color: white;
+    color: rgba(58,135,203,255);
+    border-color: gray;
+    border: 1px solid gray;
+    border-radius: 20px;
+    height: 30px;
+    width: 80px; 
+    margin-left: 380px;
+}
